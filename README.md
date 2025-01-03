@@ -1,5 +1,9 @@
 # Robot_Navigation_Algorithm
 
+This project was conducted using the following code:  
+- https://github.com/AtsushiSakai/PythonRobotics  
+<hr style="border-top: 3px solid #bbb;">
+
 ## Path Tracking
 
 ### 1. Pure Pursuit Algorithm
@@ -49,7 +53,7 @@ The maximum steering angle parameter is defined in the code as the variable max_
 By adjusting the value of max_steer, the upper limit of the steering angle was modified to analyze its impact on the algorithm.  
 
 <img src="https://github.com/user-attachments/assets/a0362ca3-3baa-492e-a2d4-81b7df9cc7d4" alt="Description2" style="width: 60%; height: 600px;">  
-<img src="https://github.com/user-attachments/assets/3d6265ff-964d-472a-8a34-be79b074fef5" alt="Description2" style="width: 60%; height: 200px;">  
+<img src="https://github.com/user-attachments/assets/3d6265ff-964d-472a-8a34-be79b074fef5" alt="Description2" style="width: 60%; height: 400px;">  
 
 #### Discussion
 
