@@ -1,7 +1,8 @@
 # Robot_Navigation_Algorithm
 
-## Pure Pursuit Algorithm
+## Path Tracking
 
+### 1. Pure Pursuit Algorithm
 
 The Pure-pursuit algorithm is a simple and efficient path-tracking algorithm used to determine the steering angle of a vehicle as it follows a specific path.  
 This is based on the vehicle's current position and a target point on the path.  
@@ -9,7 +10,7 @@ In this algorithm, the distance to the target point that the vehicle aims to tra
 represented as the variable Lfc in the code. Below are the observed results when varying the Lfc parameter.  
 
 <img src="https://github.com/user-attachments/assets/41af6fcc-2699-41bb-b90a-7da55bfacf08" alt="Description2" style="width: 60%; height: 600px;">  
-
+<hr style="border-top: 3px solid #bbb;">
 
 
 
