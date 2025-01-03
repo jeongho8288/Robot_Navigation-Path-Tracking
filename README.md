@@ -32,8 +32,8 @@ while Heading error is the angular difference between the vehicle's heading and 
 Upon examining the code, it was found that the adjustable parameter, control gain, is defined as the variable k,  
 and it is associated with the crosstrack error. The results of varying the k parameter were observed as described below.
 
-<img src="https://github.com/user-attachments/assets/d8fe5f07-34db-41a6-bc4a-9cf231093842" alt="Description2" style="width: 60%; height: 400px;">  
-<img src="https://github.com/user-attachments/assets/50129580-bdf7-460d-ac79-79cb9b49234f" alt="Description2" style="width: 60%; height: 200px;">  
+<img src="https://github.com/user-attachments/assets/d8fe5f07-34db-41a6-bc4a-9cf231093842" alt="Description2" style="width: 60%; height: 450px;">  
+<img src="https://github.com/user-attachments/assets/50129580-bdf7-460d-ac79-79cb9b49234f" alt="Description2" style="width: 60%; height: 250px;">  
 
 #### Discussion
 
