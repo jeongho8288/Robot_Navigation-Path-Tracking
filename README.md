@@ -1,6 +1,6 @@
 # Robot_Navigation_Algorithm
 
-This project was conducted using the following code:  
+### This project was conducted using the following github:  
 - https://github.com/AtsushiSakai/PythonRobotics  
 <hr style="border-top: 3px solid #bbb;">
 
