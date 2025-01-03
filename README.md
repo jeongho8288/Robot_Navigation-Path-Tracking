@@ -8,7 +8,7 @@ This is based on the vehicle's current position and a target point on the path.
 In this algorithm, the distance to the target point that the vehicle aims to track is defined by a parameter called the Look-ahead distance,  
 represented as the variable Lfc in the code. Below are the observed results when varying the Lfc parameter.  
 
-<img src="https://github.com/user-attachments/assets/41af6fcc-2699-41bb-b90a-7da55bfacf08" alt="Description2" style="width: 60%; height: 400px;">  
+<img src="https://github.com/user-attachments/assets/41af6fcc-2699-41bb-b90a-7da55bfacf08" alt="Description2" style="width: 60%; height: 600px;">  
 
 
 
